@@ -110,15 +110,6 @@ Class weighting also improved minority class detection by assigning higher impor
 - Matplotlib
 
 ---
-
-## Future Work
-
-- Apply transfer learning (ResNet / EfficientNet)
-- Use data augmentation techniques
-- Explore advanced imbalance handling methods
-
----
-
 ## Author
 
 **Naumisharanya Tirth**  
