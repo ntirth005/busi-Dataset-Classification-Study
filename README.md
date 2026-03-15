@@ -65,7 +65,7 @@ Classify breast ultrasound images into three categories using a Convolutional Ne
 
 Breast Ultrasound Images Dataset (BUSI)
 
-https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+https://www.kaggle.com/datasets/subhajournal/busi-breast-ultrasound-images-dataset
 
 ### Dataset Statistics
 
