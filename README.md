@@ -78,7 +78,7 @@ https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
 ## Kaggle Notebook
 
-(Add your Kaggle notebook link here)
+[(Add your Kaggle notebook link here)](https://www.kaggle.com/code/naumisharanyatirth/busi-dataset-classification-pynb/edit)
 
 ---
 
